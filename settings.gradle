@@ -1,0 +1,2 @@
+rootProject.name = "MediCode"
+include ':app'
